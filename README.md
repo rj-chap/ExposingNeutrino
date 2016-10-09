@@ -16,7 +16,8 @@ NOTE 2: I took over 2 months to post this code to GitHub.  I intended to clean u
 
 You can find the recorded presentation on YouTube:
 
-[Exposing the Neutrino EK: All the Naughty Bits - Ryan Chapman](https://www.youtube.com/watch?v=gqmHd_mZ2P0 "Exposing the Neutrino EK: All the Naughty Bits - Ryan Chapman").
+[Exposing the Neutrino EK: All the Naughty Bits - Ryan Chapman](https://www.youtube.com/watch?v=gqmHd_mZ2P0 "Exposing the Neutrino EK: All the Naughty Bits - Ryan Chapman")
+https://www.youtube.com/watch?v=gqmHd_mZ2P0
 
 ---
 
